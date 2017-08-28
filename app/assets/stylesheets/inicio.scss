@@ -14,16 +14,26 @@
 	.titulo{
 		color:rgb(12, 142, 110);
 		font-size: 30px;
-		padding-left:30px;	
-		padding-right:30px;
+		
 	}
 		
 	.informacion{
 		padding-top: 50px;
 		font-size: 25px;
-		padding-left: 100px;
-		padding-right: 100px;
 		text-align: center;
 	}
 
+}
+
+.header.col.s12.light.texto{
+		font-size:30px;
+	}
+
+.container.empresa{
+	margin-top:16px;
+	margin-bottom:16px;
+	width: 100%;
+	border-style:solid;
+	border-color: rgba(37,150,112,0.9);
+	padding:16px;
 }
